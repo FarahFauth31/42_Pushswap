@@ -13,5 +13,7 @@ I had at my disposal a set of integer values, 2 stacks, and a set of instruction
 </ul>
 
 The program had to display on the standard output the instructions that sorted most efficiently the input set of integer values.
-My program treats differently stacks with less than 6 numbers, stacks with 6 numbers to 100 numbers and stacks wth more than 100 numbers.
-I took inspiration from the quick sort algorithm and the chunk sort algorithm.
+My program treats differently stacks with less than 6 numbers, stacks with 6 numbers to 100 numbers and stacks wth more than 100 numbers.<br>
+I took inspiration from the quick sort algorithm and the chunk sort algorithm.<br>
+<br>
+(This project needs my Libft project to compile).
